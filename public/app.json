@@ -1,0 +1,15 @@
+{
+  "startup_app": {
+    "name": "launch-platform-example",
+    "uuid": "launch-platform-example",
+    "icon": "http://localhost:8080/favicon.ico",
+    "description": "OpenFin Popout Demo",
+    "url": "http://localhost:8080/",
+    "autoShow": true
+  },
+  "runtime": {
+    "arguments": "",
+    "version": "stable"
+  },
+  "shortcut": {}
+}
